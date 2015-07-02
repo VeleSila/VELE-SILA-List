@@ -2629,3 +2629,5 @@
 *.oclasrv.com/*
 *.longtailvideo.com/*
 *.wwwpromoter.com/*
+||a2pub.com/*
+||adtrace.org/*
