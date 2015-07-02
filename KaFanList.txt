@@ -2623,3 +2623,9 @@
 *.kejet.net/*
 ||qidian.com/*avascript/androi*own.js?*
 ||a.game.qidian.com/material/*.js
+*.padsdel.com/*
+*.onclickads.net/*
+*.padstm.com/*
+*.oclasrv.com/*
+*.longtailvideo.com/*
+*.wwwpromoter.com/*
