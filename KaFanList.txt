@@ -2558,7 +2558,6 @@
 *.directrev.com/*
 *union.ijinshan.com/*
 *.2mdn.net/*
-*.akamaihd.net/*
 *.4dsply.com/*
 *.sales-frontier.com/*
 *.admaji.com/*
