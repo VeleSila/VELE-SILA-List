@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 20150630
 ! Title: VeleSila's Kafan List
-! Last modified: 2015/06/30 20:40 -0800
+! Last modified: 2015/07/30 18:51 -0800
 ! Expires: 7 days (update frequency)
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: http://bbs.kafan.cn/thread-586237-1-1.html
