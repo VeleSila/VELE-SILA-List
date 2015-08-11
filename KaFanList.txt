@@ -2075,7 +2075,6 @@
 ||image.yesky.com/tlimages*/*
 ||imageporter.com/hiokax.js
 ||images*.cache.netease.com/channel*
-||images-na.ssl-images-amazon.com/images/*.js
 ||images.163.com/*
 ||images.17173.com/*/www/*
 ||images.mydrivers.com/*
