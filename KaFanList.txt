@@ -2670,7 +2670,6 @@ static.youku.com/v/img/ad_banner.png
 *.hilltopads.net^
 *.vxqhchlyijwu.com^
 *.puserving.com^
-*.gstatic.com^
 *.facebook.com/rsrc.php/v3/y0/r/*
 *.hxuvwqsecumg.com^
 *.jkjoxlhkwnxd.com^
