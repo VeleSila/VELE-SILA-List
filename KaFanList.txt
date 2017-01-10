@@ -1995,9 +1995,7 @@
 ||cpro.baidu.com/*
 ||cps.wsqsgo.com/*
 ||css.ku6cdn.com/tv/201*
-||d*.sina.com.cn/*.gif
-||d*.sina.com.cn/*js*
-||d*.sina.com.cn/*swf
+||d*.sina.com.cn/*/sinaads*
 ||d.cntv.cn/crossdomain.xml
 ||d.cntv.cn/html.ng/*
 ||data.ibw.sdo.com/*.js?dlm=*
