@@ -2699,3 +2699,4 @@
 ||ja.gamersky.com/*.js
 ||ggxt.net^
 |http://www.gamersky.com/js/gamerskyflash.js
+||gg.stargame.com^
