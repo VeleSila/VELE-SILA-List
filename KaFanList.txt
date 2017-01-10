@@ -2700,3 +2700,5 @@
 ||ggxt.net^
 |http://www.gamersky.com/js/gamerskyflash.js
 ||gg.stargame.com^
+||gg.uuu9.com^
+||uuu9.com/yoyo_*.js*
