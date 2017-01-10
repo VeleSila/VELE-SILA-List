@@ -782,7 +782,6 @@
 ||game3737.com/*
 ||game3896.com/*
 ||gamediad.com/*
-||gamersky.com/ad/*
 ||gamewan.net/*
 ||gameyule.com/*
 ||gaomm.in/*
@@ -2064,7 +2063,6 @@
 ||ia.apps.cntv.cn/act/platform/*
 ||iads.xinmin.cn/*
 ||iafp.pptv.com/*
-||image.gamersky.com/img/no/*.swf
 ||image.mylife.u17t.com/*
 ||image.pconline.com.cn/ad/*
 ||image.sohu.com/cs/button/*.swf*
@@ -2698,3 +2696,6 @@
 ||douyu.com/yuba/yuba_flowguide/*
 ||criteo.net^
 ||criteo.com^
+||ja.gamersky.com/*.js
+||ggxt.net^
+|http://www.gamersky.com/js/gamerskyflash.js
