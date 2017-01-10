@@ -2614,7 +2614,7 @@
 ||behe.com^
 ||mengheng.net^
 ||ugc.qpic.cn/tv/*_*
-||madnetex.com/*
+||madnetex.com^
 ||il8r.com^
 ||niuxgame77.com^
 ||kejet.net^
@@ -2637,14 +2637,14 @@
 ||t5yx.cn^
 ||ns8d.com^
 ||kld666.com^
-||code.poyang.cn/jscode^
+||code.poyang.cn/jscode/*
 ||x.jd.com^
 ||clickadu.com^
 ||searchlock.com^
 ||adworldmedia.com^
 ||v2html.atm.youku.com/vhtml?*
 ||mengmob.com^
-static.youku.com/v/img/ad_banner.png
+||static.youku.com/v/img/ad_banner.png
 ||trafficjunky.net^
 ||jiuzhilan.com^
 ||h-cdn.com^
