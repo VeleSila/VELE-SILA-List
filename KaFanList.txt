@@ -2683,3 +2683,4 @@
 ||ifengimg.com/*yingguang*.js
 ||scorecardresearch.com^
 ||ads.csdn.net/*
+||gtimg.com/adplugin/*
