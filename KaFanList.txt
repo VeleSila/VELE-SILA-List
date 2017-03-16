@@ -2642,7 +2642,6 @@
 ||hentaihaven.org/beta/?img=*
 ||atanx.alicdn.com/t/*.js
 ||tns.simba.taobao.com/?*
-||static.cnbetacdn.com/article/2*.jpg
 ||img.alicdn.com/tps/*.jpg
 ||static.cnbetacdn.com/article/2*.gif
 ||histats.com^
