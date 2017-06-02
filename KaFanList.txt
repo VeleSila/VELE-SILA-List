@@ -2114,7 +2114,6 @@
 ||js.ggyy8.cc/1/js/760*
 ||js.letvcdn.com/js/201204/17/stats/iwt_min.js*
 ||js.pub.tom.com/*
-||js.tv.itc.cn/base/core/g*.js
 ||js.tv.itc.cn/base/plugin/webpush*.js
 ||js.tv.itc.cn/gg.*.js
 ||js.txt6.net/new/*.js
