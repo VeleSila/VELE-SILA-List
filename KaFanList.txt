@@ -2418,7 +2418,6 @@
 ||imanhua.com/v2/money/*
 ||imp3.net/data/js/*
 ||iphone-mobi.net/*/ad/*
-||ipinyou.com/*
 ||iqiyi.com/player/cupid/*.swf*
 ||joyo.com/union/*
 ||jumpcn.com/5game/*
@@ -2596,7 +2595,6 @@
 ||a2pub.com^
 ||adtrace.org^
 ||jfy-stone.cn^
-||youle55.com^
 ||haohaowan8.com^
 ||xdwan.com/*union*
 ||88rpg.net^
@@ -2610,7 +2608,6 @@
 ||v2html.atm.youku.com/vhtml?*
 ||mengmob.com^
 ||static.youku.com/v/img/ad_banner.png
-||trafficjunky.net^
 ||jiuzhilan.com^
 ||h-cdn.com^
 ||adservhere.com^
@@ -2618,7 +2615,6 @@
 ||yx-ads*.com^
 ||slimspots.com^
 ||videowood.tv/*pop*
-||staticlive.douyutv.com/upload/signs/*
 ||hubtraffic.com/_affiliate/banners/*
 ||tinypic.com^
 ||adworldmedia.com^
@@ -2680,14 +2676,11 @@
 ||deliver.ifeng.com/getcode*=*
 ||ifengimg.com/*yingguang*.js
 ||scorecardresearch.com^
-||ads.csdn.net/*
-||gtimg.com/adplugin/*
 ||ipinyou.com^
 ||ijeuhlrqznjb.com^
 ||mhghzpotwnoh.com^
 ||mlmjxddzdazr.com^
 ||gtimg.com/adplugin/*
-||staticlive.douyutv.com/upload/signs/*
 ||static.360buyimg.com/jzt/temp/js/*.js
 ||img1.douyucdn.cn/upload/advertiser_asset/*/adv_asset/*
 ||imasdk.googleapis.com/flash/sdkloader/*
@@ -2697,22 +2690,18 @@
 ||fwt0.com^
 ||nr1234.com^
 ||trafficjunky.net^
-|http://192.99.16.13/crossdomain.xml
 ||poptm.com^
 ||supercounters.com^
 ||w3counter.com^
 ||doubanio.com/*/ad.js
-||atanx.alicdn.com/t/*.js
 ||tns.simba.taobao.com/*itemdsp*
 ||qihaoqu.com^
 ||qiqiww.com^
 ||8ox.cn^
-||prscripts.com/*
 ||nightchan.com^
 ||quicktask.xyz^
 ||peremoga.xyz^
 ||mega3x.net/premium.jpg
-||ads.people.com.cn^
 ||u88.cn^
 ||atas.io^
 ||bannersnack.com^
@@ -2761,3 +2750,4 @@
 ||douyu.com/resource/2017/04/10/dy_asset_pkg/*
 ||tc-tct.douyucdn.cn/dylive*/*
 ||douyu.com/resource/*.swf
+||staticlive.douyutv.com/upload/signs/*
