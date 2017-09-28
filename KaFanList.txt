@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20170820
+! Version: 20170928
 ! Title: VeleSila's Kafan List
-! Last modified: 2017/8/20 18:53 -0800
+! Last modified: 2017/9/28 16:01 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-586237-1-1.html
 !
@@ -161,7 +161,6 @@
 *aliunion*
 *cpc.*.cc/*
 *cpc.*.com/*
-*cpc/*js*
 *cpc/*php*
 *inc_page*
 *linkpage.js*
@@ -2759,9 +2758,16 @@
 ||exosrv.com^
 ||adskeeper.co.uk^
 ||codeonclick.com^
+||mediad2.jp^
+||tororango.com^
+||doublepimpssl.com^
+||cqfnvznw.info^
+||advnet.xyz^
+||staticlive.douyucdn.cn/storage/webpic_resources/upload/signs/20*.jpg
+*-adnow.com^
 ----Experiment---
-|https://staticlive.douyucdn.cn/common/simplayer/assets/*.swf?v*
-|https://webconf.douyucdn.cn/resource/common/*.json
+||staticlive.douyucdn.cn/common/simplayer/assets/*.swf?v*
+||webconf.douyucdn.cn/resource/common/*.json
 ||douyu.com/resource/2017/04/10/dy_asset_pkg/*
 ||tc-tct.douyucdn.cn/dylive*/*
 ||douyu.com/resource/*.swf
