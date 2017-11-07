@@ -2641,7 +2641,6 @@
 ||histats.com^
 ||javhub.net/js/*
 ||zombaio.com^
-||facebook.com/rsrc.php/*.js
 ||fastcounter.de^
 ||bitporno.com/js/popunder.js
 ||bitporno.com/js/new.js
@@ -2765,6 +2764,10 @@
 ||advnet.xyz^
 ||staticlive.douyucdn.cn/storage/webpic_resources/upload/signs/20*.jpg
 *-adnow.com^
+||javhub.net/video_ads.html
+||vebadu.com^
+||podrltid.info^
+||g.alicdn.com/ad-product/*.js
 ----Experiment---
 ||staticlive.douyucdn.cn/common/simplayer/assets/*.swf?v*
 ||webconf.douyucdn.cn/resource/common/*.json
@@ -2772,3 +2775,4 @@
 ||tc-tct.douyucdn.cn/dylive*/*
 ||douyu.com/resource/*.swf
 ||staticlive.douyutv.com/upload/signs/*
+|https://cs-op.douyucdn.cn/nggsys/*
