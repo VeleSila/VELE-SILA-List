@@ -2763,7 +2763,7 @@
 ||cqfnvznw.info^
 ||advnet.xyz^
 ||staticlive.douyucdn.cn/storage/webpic_resources/upload/signs/20*.jpg
-*-adnow.com^
+||-adnow.com^
 ||javhub.net/video_ads.html
 ||vebadu.com^
 ||podrltid.info^
