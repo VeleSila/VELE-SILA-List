@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2017.11.19.1
+! Version: 2017.12.27
 ! Title: VeleSila's Kafan List
-! Last modified: 2017/11/19 00:03 -0800
+! Last modified: 2017/12/27 19:25 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-586237-1-1.html
 !
@@ -2771,7 +2771,20 @@
 ||adsnative.com^
 ||disqusads.com^
 ||cir-smart.baidu.com^
-----Experiment---
+||js.idgdmg.com.cn/*.js
+||hilltopads.net^
+||qidian.qpic.cn/qidian_common/*
+||pistraving.co^
+||oa-panther.data.aliyun.com/get_*
+||hotjar.com^
+||adxpansion.com^
+||a-ads.com^
+||adsrvr.org^
+||taboola.com^
+||ja1.gamersky.com/tips/*
+||j.gamersky.com/common/tg/*.js
+||ja1.gamersky.com/gs.tg.all.js
+----Douyu---
 ||staticlive.douyucdn.cn/common/simplayer/assets/*.swf?v*
 ||webconf.douyucdn.cn/resource/common/*.json
 ||douyu.com/resource/2017/04/10/dy_asset_pkg/*
