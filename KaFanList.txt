@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2018.5.12
+! Version: 2018.5.13
 ! Title: VeleSila's Kafan List
-! Last modified: 2018/5/12 18:01 -0800
+! Last modified: 2018/5/12 22:10 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-586237-1-1.html
 !
@@ -2763,7 +2763,6 @@
 ||cqfnvznw.info^
 ||advnet.xyz^
 ||staticlive.douyucdn.cn/storage/webpic_resources/upload/signs/20*.jpg
-||-adnow.com^
 ||javhub.net/video_ads.html
 ||vebadu.com^
 ||podrltid.info^
@@ -2788,7 +2787,7 @@
 ||fam-ad.com^
 ||veohclick.net^
 ||bu*.duba.com^
-||adbox.sina.com.cn^
+||img.adbox.sina.com.cn^
 ||cs-op.douyucdn.cn/nggsys/20*.jpg
 ||13191a.com^
 ||moradu.com^
@@ -2817,4 +2816,3 @@
 ||staticlive.douyutv.com/upload/signs/*
 |https://cs-op.douyucdn.cn/nggsys/*
 |https://www.douyu.com/dygev/201*.swf
-
