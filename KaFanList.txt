@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2018.5.13
+! Version: 2019.1.22
 ! Title: VeleSila's Kafan List
-! Last modified: 2018/5/12 22:10 -0800
+! Last modified: 2019/1/22 19:56 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-586237-1-1.html
 !
@@ -2816,3 +2816,36 @@
 ||staticlive.douyutv.com/upload/signs/*
 |https://cs-op.douyucdn.cn/nggsys/*
 |https://www.douyu.com/dygev/201*.swf
+||hdslb.com/bfs/sycp/tmaterial/201*.jpg
+||ad.qyer.com^
+||statics.itc.cn/web/static/js/lib-*.js
+||prodwaves.pro^
+||reseireejoch.info^
+||3dmgame.com/templets/common/show_js/*.js
+||cee*.iteye.com/*.js
+||36900pf.com^
+||doublepimpads.com^
+||5151gj.com^
+||eoredi.com^
+||adsxyz.com^
+||xvika.com^
+||ggweb.net^
+||bidgear.com^
+||qhres.com^
+||ujoongeilaej.info^
+||123lnk.com^
+||k77hof1z7k.com^
+||ablehed.pro^
+||ousns.net^
+||adsco.re^
+||ja2.gamersky.com/banner/*js*
+||sta-op.douyucdn.cn/nggsys/*.jpg
+||icons.mydrivers.com/*/ad/*
+||ad.qvb.qcloud.com^
+||duomai.com^
+||ahcdn.com^
+||fabrkrup.com^
+||douyucdn.cn/*.flv*
+||pbmp.ali213.net/js/*.js
+||g.com.cn/ad-material/*
+||tagtic.cn^
