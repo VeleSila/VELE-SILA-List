@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2019.1.22
+! Version: 2019.1.23
 ! Title: VeleSila's Kafan List
-! Last modified: 2019/1/22 19:56 -0800
+! Last modified: 2019/1/23 19:37 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-586237-1-1.html
 !
@@ -2849,3 +2849,4 @@
 ||pbmp.ali213.net/js/*.js
 ||g.com.cn/ad-material/*
 ||tagtic.cn^
+||douyucdn.cn/resource/*/dy_asset_pkg/*.mp4
