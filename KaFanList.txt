@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2019.4.2
+! Version: 2019.6.7
 ! Title: VeleSila's Kafan List
-! Last modified: 2019/4/1 20:07 -0800
+! Last modified: 2019/6/7 18:55 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-586237-1-1.html
 !
@@ -2618,7 +2618,6 @@
 ||tinypic.com^
 ||adworldmedia.com^
 ||staticlive.douyucdn.cn/upload/signs/*
-||disqus.com^
 ||192.99.16.13^
 ||prscripts.com^
 ||addthis.com^
@@ -2867,3 +2866,18 @@
 ||propellerclick.com^
 ||douyu.com/ztCache/*
 ||sta-op.douyucdn.cn/*fansDay*.js
+||pfp.sina.net/*/ad/*
+||sta-op.douyucdn.cn/*.mp4
+||clcknads.pro^
+||adtng.com^
+||imgstatic.ctfile.com/upload/viewpics/*
+||coolboy112233.github.io/unknowbastard/*
+||acrmbjkk6qc5utby.pro^
+||syndopop.com^
+||ppcashpop.com^
+||piaodown.com/upload/*.gif
+||tsyndicate.com^
+||runative-syndicate.com^
+||teads.tv^
+||zhanzhang.net^
+||nkscdn.com^
