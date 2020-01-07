@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2019.6.7
+! Version: 2020.1.6
 ! Title: VeleSila's Kafan List
-! Last modified: 2019/6/7 18:55 -0800
+! Last modified: 2020/1/6 22:57 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-586237-1-1.html
 !
@@ -2807,14 +2807,6 @@
 ||adservice.google.com^
 ||ad.lkqd.net^
 ||2mdnsys.com^
-----Douyu---
-||staticlive.douyucdn.cn/common/simplayer/assets/*.swf?v*
-||douyu.com/resource/2017/04/10/dy_asset_pkg/*
-||tc-tct.douyucdn.cn/dylive*/*
-||douyu.com/resource/*.swf
-||staticlive.douyutv.com/upload/signs/*
-|https://cs-op.douyucdn.cn/nggsys/*
-|https://www.douyu.com/dygev/201*.swf
 ||hdslb.com/bfs/sycp/tmaterial/201*.jpg
 ||ad.qyer.com^
 ||statics.itc.cn/web/static/js/lib-*.js
@@ -2848,7 +2840,6 @@
 ||pbmp.ali213.net/js/*.js
 ||g.com.cn/ad-material/*
 ||tagtic.cn^
-||douyucdn.cn/resource/*/dy_asset_pkg/*.mp4
 ||sta-op.douyucdn.cn/douyu/*.gif
 ||youtube.com/get_midroll_
 ||adservice.google.com^
@@ -2864,7 +2855,6 @@
 ||bebi.com^
 ||youtube.com/*pagead-id*
 ||propellerclick.com^
-||douyu.com/ztCache/*
 ||sta-op.douyucdn.cn/*fansDay*.js
 ||pfp.sina.net/*/ad/*
 ||sta-op.douyucdn.cn/*.mp4
@@ -2881,3 +2871,66 @@
 ||teads.tv^
 ||zhanzhang.net^
 ||nkscdn.com^
+||statics.woozooo.com/img/*.js
+||clcknads.pro^
+||adxadserv.com^
+||pushgaga.com^
+||nkmsite.com^
+||icons.mydrivers.com/news/*.png
+||sina.net/*/ad/*
+||vibrantmedia.com^
+||amhmhg.cn^
+||cachlambanhdongian.com^
+||minhdz.com^
+||muqson0kgr.com^
+||ifengimg.com/*0h5.html*
+||ifengimg.com/*.swf
+||g3ao2q.cn^
+||xxzdpf.com^
+||badsbads.com^
+||jerredsite.pro^
+||outbrain.com^
+||gamersky.com/background/*.js*
+||4paradigm.com^
+||ieeod0.com^
+||anyclip.com^
+||vntsm.com^
+||adlightning.com^
+||wkm89.cn^
+||zhanzhang.baidu.com^
+||xinshide.cn^
+||dailiq.cn^
+||nwffx.xyz^
+||dieka888.com^
+||icons.mydrivers.com/*
+||360buyimg.com/ads/*
+||ads-union.jd.com^
+||cnbetacdn.com/*_*x*.jpg
+||ali213.net/pubjs/*.js
+||ie8eamus.com^
+||86a6b542l7.com^
+||adqy6rzwcs.com^
+||xtremeserve.xyz^
+||adsubon.com^
+||adxxx.info^
+||qqqwes.com^
+||terrapsps.com^
+||fcksys.work^
+||adxxx.com^
+||npttech.com^
+||ads-twitter.com^
+||adsafeprotected.com^
+||js-sec.indexww.com^
+||intellitxt.com^
+||tianjiunion.cn^
+------------------------------Douyu---------------------------
+||staticlive.douyucdn.cn/common/simplayer/assets/*.swf?v*
+||douyu.com/resource/2017/04/10/dy_asset_pkg/*
+||tc-tct.douyucdn.cn/dylive*/*
+||douyu.com/resource/*.swf
+||staticlive.douyutv.com/upload/signs/*
+||cs-op.douyucdn.cn/nggsys/*
+||douyu.com/dygev/201*.swf
+||douyu.com/ztCache/*
+||douyucdn.cn/resource/*/dy_asset_pkg/*.mp4
+www.douyu.com###js-room-activity
