@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020.1.6
+! Version: 2020.2.22
 ! Title: VeleSila's Kafan List
-! Last modified: 2020/1/6 22:57 -0800
+! Last modified: 2020/2/22 16:11 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-586237-1-1.html
 !
@@ -2572,7 +2572,6 @@
 ||1qwe3r.com^
 ||ruxianke.com^
 ||qidian.com/*__*.js
-||staticlive.douyutv.com/upload/*.swf
 ||bmp1.ali213.net/js/*.js
 ||chitika.net^
 ||hxjs.tool.hexun.com/bank/page*.js
@@ -2617,7 +2616,6 @@
 ||hubtraffic.com/_affiliate/banners/*
 ||tinypic.com^
 ||adworldmedia.com^
-||staticlive.douyucdn.cn/upload/signs/*
 ||192.99.16.13^
 ||prscripts.com^
 ||addthis.com^
@@ -2645,7 +2643,6 @@
 ||bitporno.com/js/new.js
 ||iqmjedevvojm.com^
 ||vxbtrsqjnjpq.com^
-||douyu.com/yuba/yuba_flowguide/*
 ||criteo.net^
 ||criteo.com^
 ||ja.gamersky.com/*.js
@@ -2679,10 +2676,7 @@
 ||mlmjxddzdazr.com^
 ||gtimg.com/adplugin/*
 ||static.360buyimg.com/jzt/temp/js/*.js
-||img1.douyucdn.cn/upload/advertiser_asset/*/adv_asset/*
 ||imasdk.googleapis.com/flash/sdkloader/*
-||staticlive.douyucdn.cn/upload/dygift/1609/*
-||staticlive.douyucdn.cn/upload/signs/*
 ||youle55.com^
 ||fwt0.com^
 ||nr1234.com^
@@ -2726,7 +2720,6 @@
 ||ioredi.com^
 ||tg.3230.com^
 ||tg.7477.com^
-|https://staticlive.douyucdn.cn/*upload/*.swf
 ||adxxx.org^
 ||nplrzxvyrhiq.com^
 ||trdhjlszfbwk.com^
@@ -2761,7 +2754,6 @@
 ||doublepimpssl.com^
 ||cqfnvznw.info^
 ||advnet.xyz^
-||staticlive.douyucdn.cn/storage/webpic_resources/upload/signs/20*.jpg
 ||javhub.net/video_ads.html
 ||vebadu.com^
 ||podrltid.info^
@@ -2787,7 +2779,6 @@
 ||veohclick.net^
 ||bu*.duba.com^
 ||img.adbox.sina.com.cn^
-||cs-op.douyucdn.cn/nggsys/20*.jpg
 ||13191a.com^
 ||moradu.com^
 ||contentabc.com^
@@ -2830,17 +2821,14 @@
 ||ousns.net^
 ||adsco.re^
 ||ja2.gamersky.com/banner/*js*
-||sta-op.douyucdn.cn/nggsys/*.jpg
 ||icons.mydrivers.com/*/ad/*
 ||ad.qvb.qcloud.com^
 ||duomai.com^
 ||ahcdn.com^
 ||fabrkrup.com^
-||douyucdn.cn/*.flv*
 ||pbmp.ali213.net/js/*.js
 ||g.com.cn/ad-material/*
 ||tagtic.cn^
-||sta-op.douyucdn.cn/douyu/*.gif
 ||youtube.com/get_midroll_
 ||adservice.google.com^
 ||run-syndicate.com^
@@ -2855,9 +2843,7 @@
 ||bebi.com^
 ||youtube.com/*pagead-id*
 ||propellerclick.com^
-||sta-op.douyucdn.cn/*fansDay*.js
 ||pfp.sina.net/*/ad/*
-||sta-op.douyucdn.cn/*.mp4
 ||clcknads.pro^
 ||adtng.com^
 ||imgstatic.ctfile.com/upload/viewpics/*
@@ -2923,7 +2909,21 @@
 ||js-sec.indexww.com^
 ||intellitxt.com^
 ||tianjiunion.cn^
+||jads.co^
+||wodjfxlhxd.com^
+||selltrafficfor.me^
 ------------------------------Douyu---------------------------
+||sta-op.douyucdn.cn/nggsys/*.jpg
+||douyucdn.cn/*.flv*
+||sta-op.douyucdn.cn/*.mp4
+||cs-op.douyucdn.cn/nggsys/20*.jpg
+||sta-op.douyucdn.cn/douyu/*.gif
+||staticlive.douyucdn.cn/storage/webpic_resources/upload/signs/20*.jpg
+||staticlive.douyucdn.cn/*upload/*.swf
+||staticlive.douyucdn.cn/upload/dygift/1609/*
+||staticlive.douyucdn.cn/upload/signs/*
+||img1.douyucdn.cn/upload/advertiser_asset/*/adv_asset/*
+||douyu.com/yuba/yuba_flowguide/*
 ||staticlive.douyucdn.cn/common/simplayer/assets/*.swf?v*
 ||douyu.com/resource/2017/04/10/dy_asset_pkg/*
 ||tc-tct.douyucdn.cn/dylive*/*
@@ -2933,4 +2933,5 @@
 ||douyu.com/dygev/201*.swf
 ||douyu.com/ztCache/*
 ||douyucdn.cn/resource/*/dy_asset_pkg/*.mp4
+||sta-op.douyucdn.cn/*fansDay*.js
 www.douyu.com###js-room-activity
