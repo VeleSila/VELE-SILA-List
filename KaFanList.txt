@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020.2.22
+! Version: 2020.4.9
 ! Title: VeleSila's Kafan List
-! Last modified: 2020/2/22 16:11 -0800
+! Last modified: 2020/4/9 21:08 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: http://bbs.kafan.cn/thread-586237-1-1.html
 !
@@ -181,7 +181,7 @@
 *yahoo-ads*
 *yahoo760.html*
 *youpiao*.js
-!----------------------- Other -----------------------!
+!----------------------- AD Union and Website Specific -----------------------!
 ||001union.com/*
 ||000wan.com/*
 ||0013.cc/*
@@ -2912,7 +2912,22 @@
 ||jads.co^
 ||wodjfxlhxd.com^
 ||selltrafficfor.me^
-------------------------------Douyu---------------------------
+||toagluji.com^
+||kecmuhot.net^
+||ma2.meishij.net/*=*&nzu=*
+||deals.huaren.us^
+||riverhit.com^
+||yunmowu.com^
+||cytcm.com^
+||5uu8.com^
+||bestcontentfee.top^
+||api.zol.com/index.php?c=Ad*
+||hao61.net^
+||w8.com.cn^
+||sdqoi2d.com^
+||v4dwkcv.com^
+||dlads.cn^
+!------------------------------Douyu---------------------------!
 ||sta-op.douyucdn.cn/nggsys/*.jpg
 ||douyucdn.cn/*.flv*
 ||sta-op.douyucdn.cn/*.mp4
