@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 2020.4.9
+! Version: 2020.4.18
 ! Title: VeleSila's Kafan List
-! Last modified: 2020/4/9 21:08 -0800
+! Last modified: 2020/4/18 20:38 -0800
 ! Expires: 7 days (update frequency)
-! Homepage: http://bbs.kafan.cn/thread-586237-1-1.html
+! Homepage: https://github.com/VeleSila/VELE-SILA-List
 !
 !----------------------- Filters -----------------------!
 !----------------------- General -----------------------!
@@ -1908,7 +1908,6 @@
 ||ad.globe7.com/*
 ||ad.pconline.com.cn/*
 ||ad.replays.net/*
-||ad.sitemaji.com/*
 ||ad.y75.net/*
 ||ad.yieldmanager.com/*
 ||ad.zongheng.com/avote.php?ap=*
@@ -2620,7 +2619,6 @@
 ||prscripts.com^
 ||addthis.com^
 ||alxsite.com^
-||hilltopads.net^
 ||vxqhchlyijwu.com^
 ||puserving.com^
 ||facebook.com/rsrc.php/v3/y0/r/*
@@ -2821,7 +2819,6 @@
 ||ousns.net^
 ||adsco.re^
 ||ja2.gamersky.com/banner/*js*
-||icons.mydrivers.com/*/ad/*
 ||ad.qvb.qcloud.com^
 ||duomai.com^
 ||ahcdn.com^
@@ -2830,7 +2827,6 @@
 ||g.com.cn/ad-material/*
 ||tagtic.cn^
 ||youtube.com/get_midroll_
-||adservice.google.com^
 ||run-syndicate.com^
 ||sitemaji.com^
 ||www5.javmost.com/src/*
@@ -2843,7 +2839,6 @@
 ||bebi.com^
 ||youtube.com/*pagead-id*
 ||propellerclick.com^
-||pfp.sina.net/*/ad/*
 ||clcknads.pro^
 ||adtng.com^
 ||imgstatic.ctfile.com/upload/viewpics/*
@@ -2858,11 +2853,9 @@
 ||zhanzhang.net^
 ||nkscdn.com^
 ||statics.woozooo.com/img/*.js
-||clcknads.pro^
 ||adxadserv.com^
 ||pushgaga.com^
 ||nkmsite.com^
-||icons.mydrivers.com/news/*.png
 ||sina.net/*/ad/*
 ||vibrantmedia.com^
 ||amhmhg.cn^
@@ -2931,7 +2924,6 @@
 ||sta-op.douyucdn.cn/nggsys/*.jpg
 ||douyucdn.cn/*.flv*
 ||sta-op.douyucdn.cn/*.mp4
-||cs-op.douyucdn.cn/nggsys/20*.jpg
 ||sta-op.douyucdn.cn/douyu/*.gif
 ||staticlive.douyucdn.cn/storage/webpic_resources/upload/signs/20*.jpg
 ||staticlive.douyucdn.cn/*upload/*.swf
