@@ -1,0 +1,8 @@
+title: Vele-sila-list
+description: Kafan List ADP version
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
