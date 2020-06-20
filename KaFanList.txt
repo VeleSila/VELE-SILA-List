@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020.4.18
+! Version: 2020.6.20
 ! Title: VeleSila's Kafan List
-! Last modified: 2020/4/18 20:38 -0800
+! Last modified: 2020/6/20 14:47 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/VeleSila/VELE-SILA-List
 !
@@ -1113,7 +1113,6 @@
 ||jjgang.com/*
 ||jjxinxi.com/*
 ||jmxy.com/*
-||jomodns.com/*
 ||joyistar.com/*
 ||joywell.com.cn/*
 ||jq159.com/*
@@ -2920,6 +2919,21 @@
 ||sdqoi2d.com^
 ||v4dwkcv.com^
 ||dlads.cn^
+www.huya.com##.gg-slider
+||msstatic.com^
+www.huya.com##.room-gg-top
+www.bilibili.com###slide_ad
+||meowpushnot.com^
+||adthrive.com^
+||edvfwlacluo.com^
+||realsrv.com^
+||exdynsrv.com^$other
+||intelligenceadx.com^
+||j.gamersky.com/app/js/*.js
+||hiprofitnetworks.com^
+||powerad.ai^
+||pub.network^
+||wnacg.org/img/*x*0.*
 !------------------------------Douyu---------------------------!
 ||sta-op.douyucdn.cn/nggsys/*.jpg
 ||douyucdn.cn/*.flv*
