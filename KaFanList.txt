@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020.6.20
+! Version: 2020.6.21
 ! Title: VeleSila's Kafan List
-! Last modified: 2020/6/20 14:47 -0800
+! Last modified: 2020/6/21 19:53 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/VeleSila/VELE-SILA-List
 !
@@ -2052,7 +2052,7 @@
 ||images.17173.com/*/www/*
 ||images.mydrivers.com/*
 ||images.qianzai.com/ad/*.js
-||images.sohu.com/bill/*
+||images.sohu.com/bill/*/ad/*
 ||images.sohu.com/chat_online/market/*
 ||images.sohu.com/cs/button/*.html
 ||images.sohu.com/cs/jsfile/js/*
