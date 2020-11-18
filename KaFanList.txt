@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020.8.23
+! Version: 2020.11.17
 ! Title: VeleSila's Kafan List
-! Last modified: 2020/8/23 13:37 -0800
+! Last modified: 2020/11/17 17:48 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/VeleSila/VELE-SILA-List
 !
@@ -2941,12 +2941,29 @@ tech.qq.com##.txp_ad_link
 tech.qq.com##.rv-player-mini-sp1.rv-player-mini.rv-player-wrap
 news.mydrivers.com###a_showhotnews_list_dia
 ||inmobi.cn^
-||sigmacdn.net^
 ||propeller-tracking.com^
 ||cathaycentury.com^
 news.mydrivers.com##.fbh_float
 ||tiantianzhibo.com/images/ad*
 ||p2p.huya.com^$domain=www.huya.com
+||sonobi.com^
+||emxdgt.com^
+||serverbid.com^
+||consumable.com^
+||tianji520.cn^
+||queqh.com^
+||9xiazaiqi.com^
+||badspads.com^
+||in-page-push.com^
+||genieesspv.jp^
+*-ad-*.126.net/*
+mail.163.com##.nui-closeable.gWel-recommend
+||gamersky.com/block/news_content_300*js*
+hw.mail.163.com##.mailgg
+||yandex.ru/partner-code-bundles/*.js
+www.cnbeta.com##.cnbeta-home-side > div.cbv
+||zhimg.com/*0x*0.jpeg
+
 !------------------------------Douyu---------------------------!
 ||sta-op.douyucdn.cn/nggsys/*.jpg
 ||douyucdn.cn/*.flv*
@@ -2970,3 +2987,5 @@ news.mydrivers.com##.fbh_float
 ||sta-op.douyucdn.cn/*fansDay*.js
 www.douyu.com###js-room-activity
 ||v.smtcdns.net^$domain=www.douyu.com
+www.douyu.com##.Search-ad
+www.douyu.com##.list-Banner-adv
