@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2020.11.17
+! Version: 2021.11.04
 ! Title: VeleSila's Kafan List
-! Last modified: 2020/11/17 17:48 -0800
+! Last modified: 2021/11/4 20:43 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/VeleSila/VELE-SILA-List
 !
@@ -2825,7 +2825,6 @@
 ||youtube.com/get_midroll_
 ||run-syndicate.com^
 ||sitemaji.com^
-||www5.javmost.com/src/*
 ||lanchaeanly.pro^
 ||a5020fec1701e9f3.com^
 ||pangzitv.com/ads/
@@ -2956,6 +2955,31 @@ news.mydrivers.com##.fbh_float
 ||badspads.com^
 ||in-page-push.com^
 ||genieesspv.jp^
+||js.jialingmm.net^
+||weizhenwx.com^
+||ranqibio.com^
+||privateadx.com^
+||ranqibio.com^
+||ad5lm.net^
+||pstatp.com^
+||51.la^
+||w0kzkd.cn^
+||kl0ru78.xyz^
+||ububyiw6655.xyz^
+||wn052ucd.online^
+||mydisplay.ctfile.com/popview.php$subdocument
+||wnacg.org/48s/wn/*0x1*.gif
+||dirproxy.net^
+||inpagepush.com^
+||totentacruelor.com^
+||lalaping.com^
+||gzads.com^
+||gozendata.com^
+||gzads.com^
+||javbus.com/ads/*
+||d231vab146qzfb.cloudfront.net^
+||eabids.com^
+||wnacg.org/data/game/*
 *-ad-*.126.net/*
 mail.163.com##.nui-closeable.gWel-recommend
 ||gamersky.com/block/news_content_300*js*
@@ -2963,7 +2987,21 @@ hw.mail.163.com##.mailgg
 ||yandex.ru/partner-code-bundles/*.js
 www.cnbeta.com##.cnbeta-home-side > div.cbv
 ||zhimg.com/*0x*0.jpeg
-
+||nex.163.com^
+||pacaio.match.qq.com^
+#Sina
+||sina.cn/*/sinaads*.js
+||ssp.roay.cn^
+#pangzitv.com
+||pangzitv.com/*home.js
+||certify-js.alexametrics.com^
+||www.pangzitv.com/*/ads*.js
+#zhihu.com
+www.zhihu.com##.Pc-word
+#qidian
+||qidian.gtimg.com/c/=/lbf/*.js*
+||img*.qidian.com/upload/gamesy/*
+||book.qidian.com##.jumpWrap
 !------------------------------Douyu---------------------------!
 ||sta-op.douyucdn.cn/nggsys/*.jpg
 ||douyucdn.cn/*.flv*
