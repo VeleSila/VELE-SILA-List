@@ -2908,7 +2908,6 @@ news.mydrivers.com##.fbh_float
 ||weizhenwx.com^
 ||ranqibio.com^
 ||privateadx.com^
-||ranqibio.com^
 ||ad5lm.net^
 ||pstatp.com^
 ||51.la^
@@ -2924,7 +2923,6 @@ news.mydrivers.com##.fbh_float
 ||lalaping.com^
 ||gzads.com^
 ||gozendata.com^
-||gzads.com^
 ||javbus.com/ads/*
 ||d231vab146qzfb.cloudfront.net^
 ||eabids.com^
