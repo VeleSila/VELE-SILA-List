@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2022.03.20
+! Version: 2022.03.21
 ! Title: VeleSila's Kafan List
-! Last modified: 2022/03/20 22:23 -0800
+! Last modified: 2022/03/20 22:26 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/VeleSila/VELE-SILA-List
 !
@@ -3126,7 +3126,6 @@ www.cnbeta.com##.cnbeta-home-side > div.cbv
 ||api.bilibili.com/x/web-show/res/loc?pf=*
 www.bilibili.com###slide_ad
 !------------------------------JD---------------------------!
-|
 ||img1.360buyimg.com/pop/jfs/t1/*.jpg
 ||x.jd.com^
 ||u-x.jd.com/static/js/*
