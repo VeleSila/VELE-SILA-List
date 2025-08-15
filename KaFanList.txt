@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2025.5.5
+! Version: 2025.8.15
 ! Title: VeleSila's Kafan List
-! Last modified: 2025/8/5 12:32 -0800
+! Last modified: 2025/8/15 11:50 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/VeleSila/VELE-SILA-List
 !
@@ -3187,6 +3187,7 @@ www.pornhub.com##.clearfix.xk71v > div
 ||hartattenuate.com^
 ||twinrdsyte.com^$popup
 ||creative.chiccams.com^
+||piupiustarship.com^
 !------------------------------Whitelist---------------------------!
 @@||www.googletagmanager.com/gtag/js?id=UA-97429488-1$script,domain=www.av01.tv
 @@||walmartimages.com^$script,domain=www.walmart.com
