@@ -165,7 +165,6 @@ www.pornhub.com##.clearfix.xk71v > div
 ||creative.chiccams.com^
 ||piupiustarship.com^
 ||legallensrecant.com^$popup
-||legallensrecant.com^$popup
 ||syndication.exosrv.com^$popup
 ||opchikoritar.com^$popup
 ||www.gearbest.com^$popup
@@ -3169,6 +3168,8 @@ www.mydrivers.com##.HSsRgYjfNn
 ||icons.mydrivers.com/2021/www/icon_2022.png$image
 www.mydrivers.com##.i1vbApifa5
 ||11.mydrivers.com/2021/winpop.min.js
+www.mydrivers.com##.jdong1div_double
+www.mydrivers.com##._bg
 !------------------------------pangzitv---------------------------!
 ||pangzitv.com/*home.js
 ||certify-js.alexametrics.com^
