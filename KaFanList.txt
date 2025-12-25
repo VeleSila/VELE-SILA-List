@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2025.12.24
+! Version: 2025.12.24.1
 ! Title: VeleSila's Kafan List
-! Last modified: 2025/12/24 11:23 -0800
+! Last modified: 2025/12/24 174:06 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/VeleSila/VELE-SILA-List
 !
@@ -3107,7 +3107,6 @@ www.douyu.com###js-room-activity
 ||v.smtcdns.net^$domain=www.douyu.com
 www.douyu.com##.Search-ad
 www.douyu.com##.list-Banner-adv
-www.douyu.com##section.layout-Module:nth-of-type(1)
 ||douyu.com/sw.js
 ||sta-op.douyucdn.cn/nggsys*.png*
 ||webconf.douyucdn.cn/resource/common/follow/recommend.json
