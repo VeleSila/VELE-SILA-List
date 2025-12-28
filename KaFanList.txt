@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2025.12.24.2
+! Version: 2025.12.28
 ! Title: VeleSila's Kafan List
-! Last modified: 2025/12/24 17:07 -0800
+! Last modified: 2025/12/28 12:13 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/VeleSila/VELE-SILA-List
 !
@@ -3196,6 +3196,7 @@ www.zhihu.com##.Pc-word
 www.zhihu.com##.Card.Pc-card
 www.zhihu.com##.Pc-feedAd-container
 www.zhihu.com##.Pc-Business-Card-PcTopFeedBanner
+zhuanlan.zhihu.com##.Card.Pc-card
 !------------------------------JD & Taobao---------------------------!
 ||img1.360buyimg.com/pop/jfs/t1/*.jpg
 ||x.jd.com^
