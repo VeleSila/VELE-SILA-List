@@ -3084,7 +3084,6 @@ www.cnbeta.com##.cnbeta-home-side > div.cbv
 blog.csdn.net##.toolbar-advert
 !------------------------------Douyu---------------------------!
 ||sta-op.douyucdn.cn/nggsys/*.jpg
-||douyucdn.cn/*.flv*
 ||sta-op.douyucdn.cn/*.mp4
 ||sta-op.douyucdn.cn/douyu/*.gif
 ||staticlive.douyucdn.cn/storage/webpic_resources/upload/signs/20*.jpg
@@ -3132,6 +3131,17 @@ www.douyu.com##.list-Banner-adv
 www.douyu.com##.is-show.ActBase.PrinceComingPendant
 www.douyu.com###js-room-activity
 ||douyucdn.cn/dygift/*.gif$image
+||www.douyu.com/wgapi/ord/room/skin/
+!------------Douyu Optional--------------!
+||wconf.douyucdn.cn/resource/common/*gift_effect*.json
+||sta-op.douyucdn.cn/front-publish/fed-ci-static-bed-online/*head*.png
+||douyucdn.cn/front-publish/douyu-web-master/_next/static/media/default*$image
+||douyucdn.cn/front-publish/*/assets/images/*.png
+||sta-op.douyucdn.cn/dygev/*$image
+@@||douyucdn.cn/front-publish/live-game-guess-master/assets/images/close*.png
+@@||douyucdn.cn/front-publish/live-game-guess-master/assets/images/icon-guess*.png
+@@||douyucdn.cn/front-publish/live-task-master/assets/images/task-bg_55c534b.png
+@@||douyucdn.cn/front-publish/*close*.png
 !------------------------------Eastmoney---------------------------!
 stock.eastmoney.com##.emfloat_wrapper
 stock.eastmoney.com###fundtrade > .lyad
