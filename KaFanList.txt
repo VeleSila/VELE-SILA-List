@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2026.1.1
+! Version: 2026.2.7
 ! Title: VeleSila's Kafan List
-! Last modified: 2026/1/1 14:52 -0800
+! Last modified: 2026/2/8 21:01 -0800
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/VeleSila/VELE-SILA-List
 !
@@ -3046,6 +3046,10 @@ www.bilibili.com###slide_ad
 ||hdslb.com/bfs/sycp/mgk/collage/*.webp$image
 live.bilibili.com##.haruna-sekai-de-ichiban-kawaii
 ||hdslb.com/bfs/banner/*$image
+||i1.hdslb.com/bfs/sycp/sanlian/image/*$image
+www.bilibili.com##.left-banner.strip-ad.ad-report
+www.bilibili.com##.right-bottom-banner.ad-floor-exp.ad-report
+www.bilibili.com##.video-card-ad-small
 !-----------------------------Commic----------------------------!
 www.manhuagui.com##.gg_728.cf.mtb16
 www.manhuagui.com##.gg_728
@@ -3137,7 +3141,7 @@ www.douyu.com###js-room-activity
 ||sta-op.douyucdn.cn/front-publish/fed-ci-static-bed-online/*head*.png
 ||douyucdn.cn/front-publish/douyu-web-master/_next/static/media/default*$image
 ||douyucdn.cn/front-publish/*/assets/images/*.png
-||sta-op.douyucdn.cn/dygev/*$image
+！||sta-op.douyucdn.cn/dygev/*$image
 @@||douyucdn.cn/front-publish/live-game-guess-master/assets/images/close*.png
 @@||douyucdn.cn/front-publish/live-game-guess-master/assets/images/icon-guess*.png
 @@||douyucdn.cn/front-publish/live-task-master/assets/images/task-bg_55c534b.png
