@@ -3019,6 +3019,11 @@ www.busdmm.club##.row > .ad-table
 ||orsvwuqiszi.com^
 ||astronautlividlyreformer.com^
 ||creative.blcdog.com/widgets/
+||rallytrck.website^
+||wheelroot.com^
+||ad.twinrdengine.com^
+||missav.ws/pop$popup
+||img1.kkeji.com^$image
 !------------------------------163---------------------------!
 *-ad-*.126.net/*
 mail.163.com##.nui-closeable.gWel-recommend
@@ -3029,14 +3034,22 @@ hw.mail.163.com##.mailgg
 ||nex.163.com^
 ||pacaio.match.qq.com^
 hw.mail.163.com##[href="gAd.util.go('plus','letter_fm_163_00','mailCapacity')"]
+!------------------------------Amazon---------------------------!
+www.amazon.com##.a-col-right.rightAdsSection.a-fixed-right-grid-col
+www.amazon.com##.a-col-right.rightAdsSection.a-fixed-right-grid-col
+!------------------------------Aliexpress---------------------------!
+||ae-pic-a1.aliexpress-media.com/kf/*/48x48.png
+||ae01.alicdn.com/kf/*/960x1768.png
+www.aliexpress.us##._268rc
+www.aliexpress.us##._1rVkB
+www.aliexpress.us##.slick-initialized.YDHvK.slick-slider > .slick-list > .slick-track > .slick-current.slick-active.slick-slide > div
+www.aliexpress.us##.cosmos-move-right-enter-done.cosmos-move-right-appear-done.cosmos-drawer-right.cosmos-drawer
+www.aliexpress.us##.cosmos-drawer-wrap
 !--------------------------------BAIDU---------------------------!
 ||tieba-ares.cdn.bcebos.com/mis/202*.gif
 ||staticsns.cdn.bcebos.com/amis/20*.png$image
 pan.baidu.com##.ad-multi-tips.ad-platform-tips
 pan.baidu.com##.bd-aside > .ad-platform-tips
-!------------------------------Amazon---------------------------!
-www.amazon.com##.a-col-right.rightAdsSection.a-fixed-right-grid-col
-www.amazon.com##.a-col-right.rightAdsSection.a-fixed-right-grid-col
 !------------------------------Bilibili---------------------------!
 ||i0.hdslb.com/bfs/sycp/creative_img/202*
 ||redir.wggames.cn^
@@ -3083,6 +3096,7 @@ bbs.imoutolove.me##[href="https://segucrwj.taobao.com/"]
 ||cnbetacdn.com/*_*x*.jpg
 www.cnbeta.com##.cnbeta-home-side > div.cbv
 ||static.cnbetacdn.com/article/*.jpg
+||cnbeta.com.tw/themes/v6/images/top*.png
 !------------------------------CSDN---------------------------!
 ||img-blog.csdnimg.cn/img_convert/*.gif
 blog.csdn.net##.toolbar-advert
@@ -3159,6 +3173,8 @@ www.gamersky.com##.Mid2_R
 ||ja1.gamersky.com/gs.tg.all.js、
 ||3dmgame.com/templets/common/show_js/*.js
 ||dl.3dmgame.com/templets/xiazai/g*
+||www.hltv.org/img/*.png?ixlib=java*$image
+||123pan.com/manager/share_background/$image
 !------------------------------Mydrivers---------------------------!
 ||11.mydrivers.com/*.htm*
 ||11.mydrivers.com/*.js?temp=*
@@ -3166,11 +3182,12 @@ www.gamersky.com##.Mid2_R
 ||images.mydrivers.com/*
 ||mydrivers.com/*hotnews*.js
 ||icons.mydrivers.com/*
-news.mydrivers.com###a_showhotnews_list_dia
-news.mydrivers.com##.fbh_float
+||img1.mydrivers.com/img/20*/*.png
+||news.mydrivers.com/incutf8/HaoWuTuiJian*.js
+||news.mydrivers.com/incutf8/*haohuo*.js
+||icons.mydrivers.com/2021/www/icon_2022.png
+||11.mydrivers.com/2021/winpop.min.js
 ||img1.mydrivers.com/img/20*.gif
-||img1.mydrivers.com/img/200*.png
-||img1.kkeji.com^$image
 www.mydrivers.com##.jdong11
 www.mydrivers.com##.jdong11bg
 news.mydrivers.com###a_showhotnews_list_dia
@@ -3178,11 +3195,12 @@ news.mydrivers.com##.footer_about
 www.mydrivers.com##.yTv3AMqP
 www.mydrivers.com##.vwE9JmqU
 www.mydrivers.com##.HSsRgYjfNn
-||icons.mydrivers.com/2021/www/icon_2022.png$image
 www.mydrivers.com##.i1vbApifa5
-||11.mydrivers.com/2021/winpop.min.js
+news.mydrivers.com###a_showhotnews_list_dia
+news.mydrivers.com##.fbh_float
 www.mydrivers.com##.jdong1div_double
 www.mydrivers.com##._bg
+news.mydrivers.com##div.main_right_div:nth-of-type(5)
 !------------------------------pangzitv---------------------------!
 ||pangzitv.com/*home.js
 ||certify-js.alexametrics.com^
@@ -3246,3 +3264,10 @@ www.huya.com##.room-gg-top
 @@||www.googletagmanager.com/gtag/js?id=UA-97429488-1$script,domain=www.av01.tv
 @@||walmartimages.com^$script,domain=www.walmart.com
 @@||static.cnbetacdn.com/article/*$image,domain=cnbeta.com.tw
+@@||img3.qy0.ru/data/$image
+@@||s.search.bilibili.com^$script,domain=bilibili.com
+@@||bilibili.com^$popup
+@@||chat.qwen.ai^$popup
+@@||hw.mail.163.com^$popup
+@@||zhihu.com^$popup
+@@||bing.com^$popup
