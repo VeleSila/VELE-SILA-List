@@ -3182,7 +3182,6 @@ www.gamersky.com##.Mid2_R
 ||images.mydrivers.com/*
 ||mydrivers.com/*hotnews*.js
 ||icons.mydrivers.com/*
-||img1.mydrivers.com/img/20*/*.png
 ||news.mydrivers.com/incutf8/HaoWuTuiJian*.js
 ||news.mydrivers.com/incutf8/*haohuo*.js
 ||icons.mydrivers.com/2021/www/icon_2022.png
@@ -3201,6 +3200,8 @@ news.mydrivers.com##.fbh_float
 www.mydrivers.com##.jdong1div_double
 www.mydrivers.com##._bg
 news.mydrivers.com##div.main_right_div:nth-of-type(5)
+news.mydrivers.com##.main_right
+news.mydrivers.com##.baidu
 !------------------------------pangzitv---------------------------!
 ||pangzitv.com/*home.js
 ||certify-js.alexametrics.com^
