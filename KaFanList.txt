@@ -2978,7 +2978,6 @@ tech.qq.com##.rv-player-mini-sp1.rv-player-mini.rv-player-wrap
 ||it.gearbest.com^
 ||consequentlyinmate.com^
 ||dnhfi5nn2dt67.cloudfront.net^
-|about:$popup
 ||scloud.online/ad.js
 ||matoakie.com^
 ||union2.50bang.org^
