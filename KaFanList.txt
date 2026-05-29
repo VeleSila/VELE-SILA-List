@@ -190,6 +190,12 @@ www.pornhub.com##.clearfix.xk71v > div
 ||*.online^$popup
 ||*.xyz^$popup
 ||*.store^$popup
+||jxbwzfgggttme.site^
+||bluetrafficstream.com^
+||partwithner.com^
+||mavrtracktor.com^
+||7amz.com^
+||cutworkscyphi.com^
 !------------------------------------------------ AD Union and Website Specific -------------------------------------!
 ||001union.com/*
 ||000wan.com/*
@@ -3023,6 +3029,8 @@ www.busdmm.club##.row > .ad-table
 ||wheelroot.com^
 ||ad.twinrdengine.com^
 ||missav.ws/pop$popup
+missav.ws##.mb-6.space-y-6
+missav.ws##.lg\:block.hidden
 ||img1.kkeji.com^$image
 !------------------------------163---------------------------!
 *-ad-*.126.net/*
@@ -3069,6 +3077,8 @@ www.manhuagui.com##.gg_728
 www.manhuagui.com##div.gg_950:nth-of-type(8)
 www.manhuagui.com##div.jghf.gg_950:nth-of-type(9)
 www.manhuagui.com##div.jghf.gg_950:nth-of-type(11)
+||mangafunb.fun/*/ads/
+||mangafunb.fun/*/*error
 wnacg.org###bread
 ||wnacg.org/img/*x*0.*
 ||wnacg.org/48s/wn/*0x1*.gif
@@ -3160,9 +3170,11 @@ www.douyu.com###js-room-activity
 @@||douyucdn.cn/front-publish/live-game-guess-master/assets/images/icon-guess*.png
 @@||douyucdn.cn/front-publish/live-task-master/assets/images/task-bg_55c534b.png
 @@||douyucdn.cn/front-publish/*close*.png
-!------------------------------Eastmoney---------------------------!
+!------------------------------Finance---------------------------!
 stock.eastmoney.com##.emfloat_wrapper
 stock.eastmoney.com###fundtrade > .lyad
+www.jin10.com##.login-mask-visible.login-mask
+www.jin10.com##.glass-effect.is-guest.no-important-data.economic-calendar-side.jin-aside-box
 !------------------------------Game---------------------------!
 ol.3dmgame.com##.mb30.warp_f
 www.gamersky.com##.Mid2_R
@@ -3211,7 +3223,7 @@ news.mydrivers.com##.baidu
 !------------------------------Qidian---------------------------!
 ||qidian.gtimg.com/c/=/lbf/*.js*
 ||img*.qidian.com/upload/gamesy/*
-||book.qidian.com##.jumpWrap
+book.qidian.com##.jumpWrap
 !------------------------------Sina---------------------------!
 ||sina.cn/*/sinaads*.js
 ||ssp.roay.cn^
@@ -3262,13 +3274,14 @@ www.huya.com##.room-gg-top
 !------------------------------Yahoo---------------------------!
 ||noon.founderyet.com/ybar/mail.yahoo.com/$subdocument
 !------------------------------Whitelist---------------------------!
-@@||www.googletagmanager.com/gtag/js?id=UA-97429488-1$script,domain=www.av01.tv
-@@||walmartimages.com^$script,domain=www.walmart.com
-@@||static.cnbetacdn.com/article/*$image,domain=cnbeta.com.tw
+@@||www.googletagmanager.com/gtag/js?id=UA-97429488-1$script
+@@||walmartimages.com^$script
+@@||static.cnbetacdn.com/article/*$image
 @@||img3.qy0.ru/data/$image
-@@||s.search.bilibili.com^$script,domain=bilibili.com
+@@||s.search.bilibili.com^$script
 @@||bilibili.com^$popup
 @@||chat.qwen.ai^$popup
 @@||hw.mail.163.com^$popup
 @@||zhihu.com^$popup
 @@||bing.com^$popup
+@@||qwen.ai^$popup
